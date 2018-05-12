@@ -1,0 +1,28 @@
+_repo: Special-Method-in-Primary-Reading-and-Oral-Work-with-Stories_33923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McMurry, Charles A. (Charles Alexander)
+    alias: McMurry, Charles Alexander
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '8799'
+    url: http://www.gutenberg.org/2009/agents/8799
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Alexander_McMurry
+description: ''
+gutenberg_issued: '2010-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reading (Elementary)'
+- !lcc 'LB'
+title: Special Method in Primary Reading and Oral Work with Stories
+url: http://www.gutenberg.org/ebooks/33923
